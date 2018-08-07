@@ -1,0 +1,25 @@
+{
+  "name": "octo-turbo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node scripts/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocketbear27/octo-turbo.git"
+  },
+  "author": "RocketBear27",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rocketbear27/octo-turbo/issues"
+  },
+  "homepage": "https://github.com/rocketbear27/octo-turbo#readme",
+  "dependencies": {
+    "chalk": "2.4.1",
+    "gulp": "3.9.1",
+    "gulp-connect": "5.5.0",
+    "gulp-open": "3.0.1"
+  }
+}
