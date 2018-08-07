@@ -1,5 +1,13 @@
+![](https://img.shields.io/badge/contributors-1-brightgreen.svg)
+![](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![](https://img.shields.io/badge/docs-latest-brightgreen.svg)
+![](https://img.shields.io/badge/issues-0-brightgreen.svg)
+![](https://img.shields.io/badge/forks-0-gray.svg)
+
 # Octo Turbo
 An open-source application! Started by RocketBear27, Finished by you! A random sample app.
+
+_Please Note There Might Be NPM Package Security issues_
 
 ## Testing:
 After editing the code you will have to test your code! 
