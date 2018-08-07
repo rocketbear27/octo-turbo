@@ -10,6 +10,7 @@ After editing the code you will have to test your code!
 _Running **npm test** checks to see if the packages are able to function. Not all packages will be able to be listed here_
 
 It should end up like this:
+
 ![npm test](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2FCapture1.PNG?1533679946641)
 
 Next you should run gulp
@@ -18,6 +19,7 @@ Next you should run gulp
 > gulp
 ```
 The result should be similar to this or even more lines of actions
+
 ![Gulp Result](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2FCapture2.PNG?1533680135129)
 
 ## How To Contribute:
