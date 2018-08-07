@@ -14,7 +14,10 @@ To edit and contribute to this application, you need to first fork this repo her
 
 ![forking](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2FCapture3.PNG?1533681765110)
 
-Then you can edit and test the way you want, either to contribute or just to have some fun.
+Then you can edit and test the way you want, either to contribute or just to have some fun. But you need to run **npm install** to install all the required packages from npm. For those who don't know how to do this type this in your OS's terminal
+``` code
+> npm install
+```
 
 ## Testing:
 After editing the code you will have to test your code! 
