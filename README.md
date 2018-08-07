@@ -9,6 +9,13 @@ An open-source application! Started by RocketBear27, Finished by you! A random s
 
 _Please Note There Might Be NPM Package Security issues_
 
+## Editing:
+To edit and contribute to this application, you need to first fork this repo here:
+
+![forking](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2FCapture3.PNG?1533681765110)
+
+Then you can edit and test the way you want, either to contribute or just to have some fun.
+
 ## Testing:
 After editing the code you will have to test your code! 
 
