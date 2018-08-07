@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/contributors-1-brightgreen.svg)
-![](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![](https://img.shields.io/badge/status-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/docs-latest-brightgreen.svg)
 ![](https://img.shields.io/badge/issues-0-brightgreen.svg)
 ![](https://img.shields.io/badge/forks-0-gray.svg)
