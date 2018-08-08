@@ -17,9 +17,6 @@
   },
   "homepage": "https://github.com/rocketbear27/octo-turbo#readme",
   "dependencies": {
-    "chalk": "2.4.1",
-    "gulp": "3.9.1",
-    "gulp-connect": "5.5.0",
-    "gulp-open": "3.0.1"
+    "chalk": "2.4.1"
   }
 }
