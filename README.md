@@ -36,7 +36,8 @@ It should end up like this:
 
 ![npm test](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2FCapture1.PNG?1533679946641)
 
-Then, you must run **npm start** to start _Express_.'
+Then, you must run **npm start** to start _Express_.
+
 ![npm start](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2Fcapture.PNG?1533745492802)
 
 This starts the whole application.
