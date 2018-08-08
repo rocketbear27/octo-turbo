@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node scripts/test.js"
+    "test": "node scripts/test.js",
+    "start": "node scripts/svr.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,8 @@
   },
   "homepage": "https://github.com/rocketbear27/octo-turbo#readme",
   "dependencies": {
-    "chalk": "2.4.1"
+    "chalk": "2.4.1",
+    "express": "4.16.3",
+    "open": "0.0.5"
   }
 }
