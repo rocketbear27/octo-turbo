@@ -4,11 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node scripts/test.js",
     "app": "node scripts/svr.js",
-    "server": "node scripts/svr.js",
-    "check": "npm-run-all --parallel test security",
-    "security": "nsp check"
+    "check": " node scripts/test.js && nsp check"
   },
   "repository": {
     "type": "git",
