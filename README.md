@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/contributors-1-brightgreen.svg)
 ![](https://img.shields.io/badge/status-passing-brightgreen.svg)
-![](https://img.shields.io/badge/npm_scripts-failing-red.svg)
+![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/docs-latest-brightgreen.svg)
 ![](https://img.shields.io/badge/issues-0-brightgreen.svg)
 ![](https://img.shields.io/badge/forks-0-gray.svg)
@@ -8,12 +8,18 @@
 # Octo Turbo
 An open-source application! 
 
+**Tip**: When you are running a npm script be sure to use: npm **run** _script_name_
+```
+> npm run script
+```
+_This example above is a fake script_
+
 ## Change Log:
-8/8/18: Replaced Gulp with Express + NPM Scripts; Docs updated ; NPM Scripts are rapidly changing due to them not running
+8/8/18: Replaced Gulp with Express + NPM Scripts; Docs updated
 <br><br>
 8/7/18: Basic app rendered using Gulp
 
-### Building:
+## Building:
 To edit and contribute to this application, you need to first fork this repo here:
 
 ![forking](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2FCapture3.PNG?1533681765110)
