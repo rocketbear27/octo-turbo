@@ -43,6 +43,11 @@ It should end up like this:
 
 Then, you must run **npm start** to start _Express_.
 
+<<<<<<< HEAD
+=======
+Then, you must run **npm start** to start _Express_.
+
+>>>>>>> bb6a77eeebbeb1ae2f3be9ca402c90fcb90cd949
 ![npm start](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2Fcapture.PNG?1533745492802)
 
 This starts the whole application.
