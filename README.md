@@ -43,9 +43,9 @@ After editing the code you will have to test your code!
 ```
 _Running **npm test** checks to see if the packages are able to function. Not all packages will be able to be listed here. And runs an automatic security check_
 
-It should end up like this:
+It should end up like this: _Ignore error messages for now_
 
-![check](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2Fcapture.PNG?1533773230301)
+![check](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2Fcapture.PNG?1533776879034)
 
 Then, you must run **npm run app** to start _Express_.
 
