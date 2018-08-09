@@ -8,13 +8,6 @@
 # Octo Turbo
 An open-source application! 
 
-## Table Of Contents:
-- [Change Log]()
-- [Building]()
-- [Testing & Running]()
-- [How To Contribute]()
-- [Contributors]()
-
 ## Change Log:
 8/8/18: Replaced Gulp with Express + NPM Scripts; Docs updated ; NPM Scripts are rapidly changing due to them not running
 <br><br>
