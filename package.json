@@ -1,11 +1,14 @@
 {
   "name": "octo-turbo",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "node scripts/test.js",
-    "start": "node scripts/svr.js"
+    "start": "node scripts/svr.js",
+    "server": "node scripts/svr.js",
+    "check": "npm-run-all --parallel test security",
+    "security": "nsp check"
   },
   "repository": {
     "type": "git",
@@ -20,6 +23,8 @@
   "dependencies": {
     "chalk": "2.4.1",
     "express": "4.16.3",
+    "nsp": "3.2.1",
     "open": "0.0.5"
-  }
+  },
+  "devDependencies": {}
 }

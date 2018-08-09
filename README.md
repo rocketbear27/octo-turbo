@@ -1,5 +1,6 @@
 ![](https://img.shields.io/badge/contributors-1-brightgreen.svg)
 ![](https://img.shields.io/badge/status-passing-brightgreen.svg)
+![](https://img.shields.io/badge/npm_scripts-failing-red.svg)
 ![](https://img.shields.io/badge/docs-latest-brightgreen.svg)
 ![](https://img.shields.io/badge/issues-0-brightgreen.svg)
 ![](https://img.shields.io/badge/forks-0-gray.svg)
@@ -10,7 +11,7 @@ An open-source application! Started by RocketBear27, Finished by you! A random s
 _Please Note There Might Be NPM Package Security issues_
 
 ## Change Log:
-8/8/18: Replaced Gulp with Express + NPM Scripts; Docs updated
+8/8/18: Replaced Gulp with Express + NPM Scripts; Docs updated ; NPM Scripts are rapidly changing due to them not running
 <br><br>
 8/7/18: Basic app rendered using Gulp
 
@@ -30,13 +31,18 @@ After editing the code you will have to test your code!
 ``` code
 > npm test
 ```
-_Running **npm test** checks to see if the packages are able to function. Not all packages will be able to be listed here_
+
+``` code
+> nsp check
+```
+_Running **npm test** checks to see if the packages are able to function. Not all packages will be able to be listed here. And runs an automatic security check_
 
 It should end up like this:
 
-![npm test](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2FCapture1.PNG?1533679946641)
+![npm check](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2Fcapture.PNG?1533773230301)
 
-Then, you must run **npm start** to start _Express_.'
+Then, you must run **npm start** to start _Express_.
+
 ![npm start](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2Fcapture.PNG?1533745492802)
 
 This starts the whole application.
