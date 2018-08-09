@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/docs-latest-brightgreen.svg)
 ![](https://img.shields.io/badge/issues-0-brightgreen.svg)
-![](https://img.shields.io/badge/forks-0-gray.svg)
+![](https://img.shields.io/badge/forks-0-lightgray.svg)
 
 # Octo Turbo
 An open-source application! 
@@ -14,10 +14,14 @@ An open-source application!
 ```
 _This example above is a fake script_
 
+---
+
 ## Change Log:
 8/8/18: Replaced Gulp with Express + NPM Scripts; Docs updated
 <br><br>
 8/7/18: Basic app rendered using Gulp
+
+---
 
 ## Building:
 To edit and contribute to this application, you need to first fork this repo here:
@@ -29,19 +33,16 @@ Then you can edit and test the way you want, either to contribute or just to hav
 ``` code
 > npm install
 ```
+---
 
 ## Testing & Running:
----
 After editing the code you will have to test your code! 
 
 ``` code
-> npm test
+> npm run check
 ```
 
-``` code
-> nsp check
-```
-_Running **npm test** checks to see if the packages are able to function. Not all packages will be able to be listed here. And runs an automatic security check_
+_Running **npm run check** checks to see if the packages are able to function. Not all packages will be able to be listed here. And runs an automatic security check_
 
 It should end up like this: _Ignore error messages for now_
 
@@ -57,11 +58,15 @@ Then, you must run **npm run app** to start _Express_.
 
 This starts the whole application.
 
+---
+
 ## How To Contribute:
 1. Check [our issues](https://github.com/rocketbear27/octo-turbo/issues) and work an issue, filing a bug, and requesting for features.
 2. Edit the code and publish the code to your own forked repo
 
 _Nobody is excluded unless violating [Code Of Conduct](https://github.com/rocketbear27/octo-turbo/wiki/Code-Of-Conduct)_
+
+---
 
 ## Contributors:
 1. RocketBear27
