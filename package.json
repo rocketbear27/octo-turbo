@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "app": "node scripts/svr.js",
-    "check": "node scripts/test.js && nsp check"
+    "app": "npm-run-all --parallel svr check",
+    "svr": "node scripts/svr.js",
+    "check": "nsp check"
   },
   "repository": {
     "type": "git",
@@ -18,13 +19,9 @@
   },
   "homepage": "https://github.com/rocketbear27/octo-turbo#readme",
   "dependencies": {
-    "babel-cli": "6.14.0",
-    "babel-core": "6.14.0",
-    "babel-loader": "6.2.5",
-    "babel-preset-latest": "6.14.0",
-    "babel-register": "6.14.0",
     "chalk": "2.4.1",
     "express": "4.16.3",
+    "npm-run-all": "4.1.3",
     "nsp": "3.2.1",
     "open": "0.0.5"
   },
