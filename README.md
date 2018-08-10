@@ -18,7 +18,7 @@ _This example above is a fake script ; -s makes the console to print less noise_
 
 ## Change Log:
 8/10/18: Configured Webpack and Babel ; Added CONTRIBUTE.md
-<br>
+<br><br>
 8/8/18: Replaced Gulp with Express + NPM Scripts;
 <br><br>
 8/7/18: Basic app rendered using Gulp
