@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "app": "npm-run-all --parallel svr check",
-    "svr": "node scripts/svr.js",
+    "svr": "babel-node scripts/svr.js",
     "check": "nsp check"
   },
   "repository": {
