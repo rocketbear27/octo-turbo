@@ -10,13 +10,15 @@ An open-source application!
 
 **Tip**: When you are running a npm script be sure to use: npm **run** _script_name_
 ```
-> npm run script
+> npm run script -s
 ```
-_This example above is a fake script_
+_This example above is a fake script ; -s makes the console to print less noise_
 
 ---
 
 ## Change Log:
+8/10/18: Configured Webpack and Babel ; Added CONTRIBUTE.md
+<br>
 8/8/18: Replaced Gulp with Express + NPM Scripts;
 <br><br>
 8/7/18: Basic app rendered using Gulp
@@ -41,7 +43,7 @@ After editing the code you will have to test your code!
 You must run **npm run app** to start _Express_.
 
 ``` code
-> npm run app
+> npm run app -s
 ```
 
 ![npm run app](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2Fcapture.PNG?1533840587692)
@@ -53,15 +55,15 @@ If you don't like the security noise and logging, then just run: npm run **svr**
 
 If you don't want to run the application and only want to run the security check, then run: npm run **check**
 
+If you would like less error messages run the command with -**s**
+
 ---
 
 ## How To Contribute:
 1. Check [our issues](https://github.com/rocketbear27/octo-turbo/issues) and work an issue, filing a bug, and requesting for features.
-2. Edit the code and publish the code to your own forked repo
+2. Edit the code and publish the code to your own forked repo & [make pull requests](https://github.com/Roshanjossey/first-contributions/blob/master/README.md)
+3. Add your name and GitHub profile link [ask for a pull request](https://github.com/Roshanjossey/first-contributions/blob/master/README.md)
 
 _Nobody is excluded unless violating [Code Of Conduct](https://github.com/rocketbear27/octo-turbo/wiki/Code-Of-Conduct)_
 
 ---
-
-## Contributors:
-1. RocketBear27
