@@ -31,6 +31,6 @@
     "webpack": "1.13.2",
     "webpack-dev-middleware": "1.8.4",
     "numeral": "1.5.3"
-    },
+  },
   "devDependencies": {}
 }
