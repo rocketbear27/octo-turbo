@@ -19,7 +19,7 @@ app.use(require('webpack-dev-middleware')(compiler, {
 app.get('/', function (req, res) {
     res.sendFile(path.join(__dirname, '../src/index.html'));
     console.log(chalk.green('HTML file served...'));
-})
+});
 
 app.listen(port, function (err) {
     if (err) {
