@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/contributors-1-brightgreen.svg)
 ![](https://img.shields.io/badge/status-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
-![](https://img.shields.io/badge/docs-outdated-brightgreen.svg)
+![](https://img.shields.io/badge/docs-outdated-red.svg)
 ![](https://img.shields.io/badge/screenshots-outdated-red.svg)
 ![](https://img.shields.io/badge/issues-0-brightgreen.svg)
 ![](https://img.shields.io/badge/forks-0-lightgray.svg)
