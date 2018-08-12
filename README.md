@@ -1,11 +1,8 @@
 ![](https://api.travis-ci.org/rocketbear27/octo-turbo.svg?branch=master)
 ![](https://img.shields.io/badge/contributors-1-brightgreen.svg)
-![](https://img.shields.io/badge/status-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/docs-outdated-red.svg)
-![](https://img.shields.io/badge/screenshots-outdated-red.svg)
 ![](https://img.shields.io/badge/issues-0-brightgreen.svg)
-![](https://img.shields.io/badge/forks-0-lightgray.svg)
 
 # Octo Turbo
 An open-source application! 
@@ -19,7 +16,7 @@ _This example above is a fake script ; -s makes the console to print less noise_
 ---
 
 ## Change Log:
-8/12/18: index.css and .editorconfig added
+8/12/18: New NPM Scripts, .editorconfig for editor default settings, .eslintrc.json for linting process, travis.yml and appveyor.yml for build status, and Version 1 Released!
 <br><br>
 8/10/18: Configured Webpack and Babel ; Added CONTRIBUTE.md
 <br><br>
@@ -34,8 +31,7 @@ To edit and contribute to this application, you need to first fork this repo her
 
 ![forking](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2FCapture3.PNG?1533681765110)
 
-Please clone the repo on your machine
-*Outdated
+Then clone your version of this repo on to your own machine:
 
 ``` code
 > git clone https://github.com/username/octo-turbo.git
@@ -49,7 +45,7 @@ Then you can edit and test the way you want, either to contribute or just to hav
 ---
 
 ## Testing & Running:
-After editing the code you will have to test your code! 
+After editing the code you will have to test your code! For more NPM Scripts, check the [package.json](https://github.com/rocketbear27/octo-turbo/blob/master/package.json) file in the root of your project
 
 You must run **npm run app** to start _Express_.
 
@@ -57,7 +53,7 @@ You must run **npm run app** to start _Express_.
 > npm run app -s
 ```
 
-![npm run app](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2Fcapture.PNG?1533840587692)
+![npm run app](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2Fcapture.PNG?1534111996915)
 
 This starts the whole application. 
 
