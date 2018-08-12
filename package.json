@@ -3,9 +3,11 @@
   "version": "0.0.0",
   "description": "",
   "scripts": {
-    "app": "npm-run-all --parallel svr check",
+    "app": "npm-run-all --parallel svr check lint:watch",
     "svr": "babel-node scripts/svr.js",
-    "check": "nsp check"
+    "check": "nsp check",
+    "lint": "esw webpack.config.* src scripts --color",
+    "lint:watch": "npm run lint -- --watch"
   },
   "repository": {
     "type": "git",
