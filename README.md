@@ -1,3 +1,4 @@
+![](https://api.travis-ci.org/rocketbear27/octo-turbo.svg?branch=master)
 ![](https://img.shields.io/badge/contributors-1-brightgreen.svg)
 ![](https://img.shields.io/badge/status-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
