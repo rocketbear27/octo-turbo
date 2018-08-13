@@ -3,7 +3,6 @@
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/docs-latest-brightgreen.svg)
 ![](https://img.shields.io/badge/issues-2-orange.svg)
-![](https://img.shields.io/badge/size-155_MB-blue.svg)
 
 # Octo Turbo
 An open-source application! 
