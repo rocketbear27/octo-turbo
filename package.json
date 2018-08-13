@@ -1,6 +1,6 @@
 {
   "name": "octo-turbo",
-  "version": "1.0.1",
+  "version": "1.0.9",
   "description": "An app created by RocketBear27, helped and supported by Cory House's Pluralsight Course",
   "scripts": {
     "app": "npm-run-all --parallel svr check lint:watch test:watch",

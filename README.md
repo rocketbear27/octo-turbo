@@ -1,7 +1,7 @@
 ![](https://api.travis-ci.org/rocketbear27/octo-turbo.svg?branch=master)
 ![](https://img.shields.io/badge/contributors-1-brightgreen.svg)
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
-![](https://img.shields.io/badge/docs-outdated-red.svg)
+![](https://img.shields.io/badge/docs-latest-brightgreen.svg)
 ![](https://img.shields.io/badge/issues-2-orange.svg)
 ![](https://img.shields.io/badge/size-155_MB-blue.svg)
 
@@ -9,6 +9,9 @@
 An open-source application! 
 
 **Tip**: When you are running a npm script be sure to use: npm **run** _script_name_
+
+**Note**: All sections are in order for a full process to deploy this app.
+
 ```
 > npm run script -s
 ```
@@ -27,22 +30,14 @@ _This example above is a fake script ; -s makes the console to print less noise_
 
 ---
 
-## Building:
-To edit and contribute to this application, you need to first fork this repo here:
+## Start:
 
-![forking](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2FCapture3.PNG?1533681765110)
-
-Then clone your version of this repo on to your own machine:
-
-``` code
-> git clone https://github.com/username/octo-turbo.git
-```
-
-Then you can edit and test the way you want, either to contribute or just to have some fun. But you need to run **npm install** to install all the required packages from npm. For those who don't know how to do this type this in your OS's terminal
+After forking the repo and cloning it on your machine, type npm install to install the dependencies that the project needs
 
 ``` code
 > npm install
 ```
+
 ---
 
 ## Testing & Running:
@@ -54,16 +49,57 @@ You must run **npm run app** to start _Express_.
 > npm run app -s
 ```
 
-![npm run app](https://cdn.glitch.com/c16530b3-dd93-4a57-936e-b6d47ae27437%2Fcapture.PNG?1534111996915)
+This starts the whole application. But only for testing. It also runs linting, watching and security check.
 
-This starts the whole application. 
+Like what you have done? Move onto building, next section -->
 
+---
+## Building:
 
-If you don't like the security noise and logging, then just run: npm run **svr**.
+**Only Build When Ready To Finalize Changes, You Cannot Edit Beyond This Point**
 
-If you don't want to run the application and only want to run the security check, then run: npm run **check**
+This clears the **dist** folder for your edits and code. Type the following:
 
-If you would like less error messages run the command with -**s**
+``` code
+> npm run prebuild
+```
+
+_Any errors from linting will have to be resolved, usually_
+
+Now, to build, bundle, and write your code to the **dist** folder. Type the following:
+
+``` code
+> npm run build
+```
+
+Finally to build and preview your work (optional), type the following command:
+
+``` code 
+> npm run postbuild
+```
+
+After the building process, it time to move to the Deploying section.
+
+---
+
+## Deploying:
+
+In order to deploy this app, there are certain places you can host your app on. This example will use GitHub Pages.
+
+[Use this guide to set up GitHub Pages with different code. See below for more info](https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github)
+
+_That ^ Link applies to everyone_
+
+Use that article to start the repository and use here for the code. Now how to use that repo.
+
+1. Find the repository folder on your machine
+2. Take all the files in your **dist** folder and copy the files. (1 css file, 1 css.map file, 2 js files, 2 js.map files)
+3. And add them in your repository folder
+4. Open your OS's terminal and cd into your repo folder
+5. Type **git add .**
+6. Then, Type **git commit -m "any message here"**
+7. Finally, Type **git push**
+8. You are done, go to a web browser and type _username_.github.io to see your results
 
 ---
 
