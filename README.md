@@ -2,8 +2,10 @@
 ![](https://img.shields.io/badge/contributors-3-brightgreen.svg)
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/docs-latest-brightgreen.svg)
-![](https://img.shields.io/badge/issues-2-orange.svg)
-![](https://img.shields.io/badge/pull_request-1-brightgreen.svg)
+![](https://img.shields.io/badge/issues-1-brightgreen.svg)
+![](https://img.shields.io/badge/forks-1-brightgreen.svg)
+![](https://img.shields.io/badge/stars-2-brightgreen.svg)
+
 
 # Octo Turbo
 An open-source application! 
@@ -12,15 +14,20 @@ An open-source application!
 
 **Note**: All sections are in order for a full process to deploy this app.
 
+**Note**: To check for major version updates view the _Version Log_ section. To check for frequent commits and activity, check _Change Log_.
+
 ```
 > npm run script -s
 ```
 _This example above is a fake script ; -s makes the console to print less noise_
 
 ---
+## Version Log:
+**1.2.0**: HTML file now bundled in build process. Merged pull request for bundling ability
+
 
 ## Change Log:
-8/20/18: 
+8/20/18: [Merged first pull request](https://github.com/rocketbear27/octo-turbo/pull/3) ; [First issue resolved](https://github.com/rocketbear27/octo-turbo/issues/2) ; First star! **Version 1.2.0** is released!
 <br><br>
 8/13/18: Cleared unnecessary files in /dist ; Added a .gitignore for the Dist folder
 <br><br>
