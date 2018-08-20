@@ -1,8 +1,9 @@
 ![](https://api.travis-ci.org/rocketbear27/octo-turbo.svg?branch=master)
-![](https://img.shields.io/badge/contributors-1-brightgreen.svg)
+![](https://img.shields.io/badge/contributors-3-brightgreen.svg)
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/docs-latest-brightgreen.svg)
 ![](https://img.shields.io/badge/issues-2-orange.svg)
+![](https://img.shields.io/badge/pull_request-1-brightgreen.svg)
 
 # Octo Turbo
 An open-source application! 
@@ -19,6 +20,8 @@ _This example above is a fake script ; -s makes the console to print less noise_
 ---
 
 ## Change Log:
+8/20/18: 
+<br><br>
 8/13/18: Cleared unnecessary files in /dist ; Added a .gitignore for the Dist folder
 <br><br>
 8/12/18: New NPM Scripts, .editorconfig for editor default settings, .eslintrc.json for linting process, travis.yml and appveyor.yml for build status, and Version 1 Released!
@@ -107,7 +110,7 @@ Use that article to start the repository and use here for the code. Now how to u
 ## How To Contribute:
 1. Check [our issues](https://github.com/rocketbear27/octo-turbo/issues) and work an issue, filing a bug, and requesting for features.
 2. Edit the code and publish the code to your own forked repo & [make pull requests](https://github.com/Roshanjossey/first-contributions/blob/master/README.md)
-3. Add your name and GitHub profile link [ask for a pull request](https://github.com/Roshanjossey/first-contributions/blob/master/README.md)
+3. Add your name and GitHub profile link in [CONTRIBUTE.md]()
 
 _Nobody is excluded unless violating [Code Of Conduct](https://github.com/rocketbear27/octo-turbo/wiki/Code-Of-Conduct)_
 
