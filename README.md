@@ -4,8 +4,8 @@
 ![](https://img.shields.io/badge/contributors-3-brightgreen.svg)
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/docs-latest-brightgreen.svg)
-![](https://img.shields.io/badge/issues-1-brightgreen.svg)
-![](https://img.shields.io/badge/forks-1-brightgreen.svg)
+![](https://img.shields.io/badge/issues-0-brightgreen.svg)
+![](https://img.shields.io/badge/forks-2-brightgreen.svg)
 ![](https://img.shields.io/badge/stars-2-brightgreen.svg)
 
 An open-source application! 
