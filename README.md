@@ -8,8 +8,6 @@
 ![](https://img.shields.io/badge/forks-1-brightgreen.svg)
 ![](https://img.shields.io/badge/stars-2-brightgreen.svg)
 
-
-# Octo Turbo
 An open-source application! 
 
 **Tip**: When you are running a npm script be sure to use: npm **run** _script_name_
