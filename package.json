@@ -1,7 +1,7 @@
 {
   "name": "octo-turbo",
-  "version": "1.2.0",
-  "description": "",
+  "version": "1.2.1",
+  "description": "A Random Open-Source Project",
   "scripts": {
     "app": "npm-run-all --parallel svr check lint:watch test:watch",
     "svr": "babel-node scripts/svr.js",
