@@ -29,7 +29,8 @@ _This example above is a fake script ; -s makes the console to print less noise_
 
 
 ## Change Log:
-
+9/3/18: Changed `index.html` icon
+<br><br>
 8/31/18: [dee-y](https://github.com/dee-y) added new files and the _Official Logo For_ [Octo Turbo](https://github.com/rocketbear27/octo-turbo) ; **Version 1.2.1** is released!
 <br><br>
 8/20/18: [Merged first pull request](https://github.com/rocketbear27/octo-turbo/pull/3) ; [First issue resolved](https://github.com/rocketbear27/octo-turbo/issues/2) ; First star! **Version 1.2.0** is released!
