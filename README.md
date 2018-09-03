@@ -1,5 +1,4 @@
 ![256 px](https://user-images.githubusercontent.com/36637989/44937318-90ad0280-ad70-11e8-8876-ae6bb0e4757b.png)
-
 ![](https://api.travis-ci.org/rocketbear27/octo-turbo.svg?branch=master)
 ![](https://img.shields.io/badge/contributors-3-brightgreen.svg)
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
