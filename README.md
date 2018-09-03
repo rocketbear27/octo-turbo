@@ -3,7 +3,6 @@
 ![](https://api.travis-ci.org/rocketbear27/octo-turbo.svg?branch=master)
 ![](https://img.shields.io/badge/contributors-3-brightgreen.svg)
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
-![](https://img.shields.io/badge/docs-latest-brightgreen.svg)
 ![](https://img.shields.io/badge/issues-0-brightgreen.svg)
 ![](https://img.shields.io/badge/forks-2-brightgreen.svg)
 ![](https://img.shields.io/badge/stars-2-brightgreen.svg)
