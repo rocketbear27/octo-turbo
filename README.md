@@ -12,9 +12,7 @@ An open-source application!
 
 **Tip**: When you are running a npm script be sure to use: npm **run** _script_name_
 
-**Note**: All sections are in order for a full process to deploy this app.
-
-**Note**: To check for major version updates view the _Version Log_ section. To check for frequent commits and activity, check _Change Log_.
+**History**: All timelines, change logs, and version logs can be viewed [here]()
 
 ```
 > npm run script -s
@@ -22,11 +20,13 @@ An open-source application!
 _This example above is a fake script ; -s makes the console to print less noise_
 
 ---
+
 ## Version Log:
 **1.2.1**: New logo created, and `/images` folder created with logo licence, and different size logos.
 <br><br>
 **1.2.0**: HTML file now bundled in build process. Merged pull request for bundling ability
 
+---
 
 ## Change Log:
 9/4/18: Runned all commands making sure everything is working
