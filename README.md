@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/issues-0-brightgreen.svg)
 ![](https://img.shields.io/badge/forks-2-brightgreen.svg)
 ![](https://img.shields.io/badge/stars-2-brightgreen.svg)
+![](https://img.shields.io/badge/security_status-safe-brightgreen.svg)
 
 An open-source application! 
 
@@ -28,6 +29,8 @@ _This example above is a fake script ; -s makes the console to print less noise_
 
 
 ## Change Log:
+9/4/18: Runned all commands making sure everything is working
+<br><br>
 9/3/18: Changed `index.html` icon
 <br><br>
 8/31/18: [dee-y](https://github.com/dee-y) added new files and the _Official Logo For_ [Octo Turbo](https://github.com/rocketbear27/octo-turbo) ; **Version 1.2.1** is released!
@@ -88,7 +91,7 @@ Now, to build, bundle, and write your code to the **dist** folder. Type the foll
 > npm run build
 ```
 
-Finally to build and preview your work (optional), type the following command:
+Finally to build and just to preview your work (optional), type the following command:
 
 ``` code 
 > npm run postbuild
@@ -115,7 +118,7 @@ Use that article to start the repository and use here for the code. Now how to u
 5. Type **git add .**
 6. Then, Type **git commit -m "any message here"**
 7. Finally, Type **git push**
-8. You are done, go to a web browser and type _username_.github.io to see your results
+8. You are done, go to a web browser and type _username_.github.io to see your results after a minute or two.
 
 ---
 
