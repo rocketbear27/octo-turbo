@@ -12,8 +12,6 @@ An open-source application!
 
 **Tip**: When you are running a npm script be sure to use: npm **run** _script_name_
 
-**History**: All timelines, change logs, and version logs can be viewed [here]()
-
 ```
 > npm run script -s
 ```
