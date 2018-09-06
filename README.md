@@ -35,11 +35,11 @@ _This example above is a fake script ; -s makes the console to print less noise_
 <br><br>
 8/20/18: [Merged first pull request](https://github.com/rocketbear27/octo-turbo/pull/3) ; [First issue resolved](https://github.com/rocketbear27/octo-turbo/issues/2) ; First star! **Version 1.2.0** is released!
 <br><br>
-8/13/18: Cleared unnecessary files in /dist ; Added a .gitignore for the Dist folder
+8/13/18: Cleared unnecessary files in /dist ; Added a `.gitignore` for the Dist folder
 <br><br>
-8/12/18: New NPM Scripts, .editorconfig for editor default settings, .eslintrc.json for linting process, travis.yml and appveyor.yml for build status, and Version 1 Released!
+8/12/18: New NPM Scripts, `.editorconfig` for editor default settings, `.eslintrc.json` for linting process, `travis.yml` and `appveyor.yml` for build status, and Version 1 Released!
 <br><br>
-8/10/18: Configured Webpack and Babel ; Added CONTRIBUTE.md
+8/10/18: Configured Webpack and Babel ; Added `CONTRIBUTE.md`
 <br><br>
 8/8/18: Replaced Gulp with Express + NPM Scripts;
 <br><br>
