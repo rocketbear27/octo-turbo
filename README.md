@@ -1,6 +1,7 @@
 ![256 px](https://user-images.githubusercontent.com/36637989/44937318-90ad0280-ad70-11e8-8876-ae6bb0e4757b.png)
 
-![](https://api.travis-ci.org/rocketbear27/octo-turbo.svg?branch=master)
+![Travis CI Status](https://api.travis-ci.org/rocketbear27/octo-turbo.svg?branch=master)
+![Appveyor CI Status](https://ci.appveyor.com/api/projects/status/g91ex63y4v0e50lg?svg=true)
 ![](https://img.shields.io/badge/contributors-3-brightgreen.svg)
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/issues-0-brightgreen.svg)
@@ -27,6 +28,8 @@ _This example above is a fake script ; -s makes the console to print less noise_
 ---
 
 ## Change Log:
+9/6/18: Added Appveyor CI Badge Status For _Octo Turbo_
+<br><br>
 9/4/18: Runned all commands making sure everything is working
 <br><br>
 9/3/18: Changed `index.html` icon
