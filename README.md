@@ -2,6 +2,7 @@
 
 ![Travis CI Status](https://api.travis-ci.org/rocketbear27/octo-turbo.svg?branch=master)
 ![Appveyor CI Status](https://ci.appveyor.com/api/projects/status/g91ex63y4v0e50lg?svg=true)
+[![Coverage Status](https://coveralls.io/repos/github/rocketbear27/octo-turbo/badge.svg?branch=master)](https://coveralls.io/github/rocketbear27/octo-turbo?branch=master)
 ![](https://img.shields.io/badge/contributors-3-brightgreen.svg)
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/issues-0-brightgreen.svg)
