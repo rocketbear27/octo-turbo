@@ -2,7 +2,6 @@
 
 ![Travis CI Status](https://api.travis-ci.org/rocketbear27/octo-turbo.svg?branch=master)
 ![Appveyor CI Status](https://ci.appveyor.com/api/projects/status/g91ex63y4v0e50lg?svg=true)
-[![Coverage Status](https://coveralls.io/repos/github/rocketbear27/octo-turbo/badge.svg?branch=master)](https://coveralls.io/github/rocketbear27/octo-turbo?branch=master)
 ![](https://img.shields.io/badge/contributors-3-brightgreen.svg)
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/issues-0-brightgreen.svg)
@@ -22,6 +21,8 @@ _This example above is a fake script ; -s makes the console to print less noise_
 ---
 
 ## Version Log:
+**1.2.2**: Found and added Appveyor CI badge ; Added a licence to project ; Set `GOALS.md` for goals
+<br><br>
 **1.2.1**: New logo created, and `/images` folder created with logo licence, and different size logos.
 <br><br>
 **1.2.0**: HTML file now bundled in build process. Merged pull request for bundling ability
@@ -29,7 +30,7 @@ _This example above is a fake script ; -s makes the console to print less noise_
 ---
 
 ## Change Log:
-9/6/18: Added Appveyor CI Badge Status For _Octo Turbo_
+9/6/18: Added Appveyor CI Badge Status For _Octo Turbo_ ; Added GNU General Public License `LICENCE` ; Version **1.2.2** ; Added `GOALS.md` for goals
 <br><br>
 9/4/18: Runned all commands making sure everything is working
 <br><br>
