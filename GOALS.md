@@ -10,7 +10,7 @@ These are all the goals for Octo Turbo. Both achieved and aimed goals listed.
 | 5+ Contributors  |   |
 | 5+ Stars  |   |
 | 5+ Forks |   |
-|   |   |
+| Select a purpose for OT  |   |
 |   |   |
 |   |   |
 |   |   |
