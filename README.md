@@ -21,6 +21,8 @@ _This example above is a fake script ; -s makes the console to print less noise_
 ---
 
 ## Version Log:
+**1.2.4**: Organized files in `/docs` folders. Added `/updates` folder for update summaries
+<br><br>
 **1.2.2**: Found and added Appveyor CI badge ; Added a licence to project ; Set `GOALS.md` for goals
 <br><br>
 **1.2.1**: New logo created, and `/images` folder created with logo licence, and different size logos.
@@ -30,6 +32,8 @@ _This example above is a fake script ; -s makes the console to print less noise_
 ---
 
 ## Change Log:
+9/9/18: Added  `/docs` folder with `CONTRIBUTE.md` for a contributors list, `DOCS.md` for a full packed docs, & `GOALS.md` for goals. And `/updates` folder for update summaries. Version **1.2.4** Released, [Check Update Summary For More Details]().
+<br><br>
 9/6/18: Added Appveyor CI Badge Status For _Octo Turbo_ ; Added GNU General Public License `LICENCE` ; Version **1.2.2** ; Added `GOALS.md` for goals
 <br><br>
 9/4/18: Runned all commands making sure everything is working
@@ -49,79 +53,6 @@ _This example above is a fake script ; -s makes the console to print less noise_
 8/8/18: Replaced Gulp with Express + NPM Scripts;
 <br><br>
 8/7/18: Basic app rendered using Gulp
-
----
-
-## Start:
-
-After forking the repo and cloning it on your machine, type npm install to install the dependencies that the project needs
-
-``` code
-> npm install
-```
-
----
-
-## Testing & Running:
-After editing the code you will have to test your code! For more NPM Scripts, check the [package.json](https://github.com/rocketbear27/octo-turbo/blob/master/package.json) file in the root of your project
-
-You must run **npm run app** to start _Express_.
-
-``` code
-> npm run app -s
-```
-
-This starts the whole application. But only for testing. It also runs linting, watching and security check.
-
-Like what you have done? Move onto building, next section -->
-
----
-## Building:
-
-**Only Build When Ready To Finalize Changes, You Cannot Edit Beyond This Point**
-
-This clears the **dist** folder for your edits and code. Type the following:
-
-``` code
-> npm run prebuild
-```
-
-_Any errors from linting will have to be resolved, usually_
-
-Now, to build, bundle, and write your code to the **dist** folder. Type the following:
-
-``` code
-> npm run build
-```
-
-Finally to build and just to preview your work (optional), type the following command:
-
-``` code 
-> npm run postbuild
-```
-
-After the building process, it time to move to the Deploying section.
-
----
-
-## Deploying:
-
-In order to deploy this app, there are certain places you can host your app on. This example will use GitHub Pages.
-
-[Use this guide to set up GitHub Pages with different code. See below for more info](https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github)
-
-_That ^ Link applies to everyone_
-
-Use that article to start the repository and use here for the code. Now how to use that repo.
-
-1. Find the repository folder on your machine
-2. Take all the files in your **dist** folder and copy the files. (1 css file, 1 css.map file, 2 js files, 2 js.map files)
-3. And add them in your repository folder
-4. Open your OS's terminal and cd into your repo folder
-5. Type **git add .**
-6. Then, Type **git commit -m "any message here"**
-7. Finally, Type **git push**
-8. You are done, go to a web browser and type _username_.github.io to see your results after a minute or two.
 
 ---
 

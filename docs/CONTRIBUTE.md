@@ -1,3 +1,5 @@
+![256 px](https://user-images.githubusercontent.com/36637989/44937318-90ad0280-ad70-11e8-8876-ae6bb0e4757b.png)
+
 # Contributors
 
 Thank you for all of the contributors below for their hard work, time, and effort!
