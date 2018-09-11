@@ -1,6 +1,6 @@
 {
   "name": "octo-turbo",
-  "version": "1.2.2",
+  "version": "1.2.4",
   "description": "A random open-source application",
   "scripts": {
     "app": "npm-run-all --parallel svr check lint:watch test:watch",
