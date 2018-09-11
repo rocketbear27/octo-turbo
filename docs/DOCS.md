@@ -3,6 +3,14 @@
 # DOCS For OCTO TURBO
 ---
 
+## Prerequisites:
+1. NPM (v6.4.0)
+2. Node.js (v8.11.4)
+3. Code Editor (preferably the latest version of VS Code)
+4. Familiarity with GitHub and Git Source Control
+
+---
+
 ## Start:
 
 After forking the repo and cloning it on your machine, type npm install to install the dependencies that the project needs
