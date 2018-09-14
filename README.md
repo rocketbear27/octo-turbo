@@ -14,7 +14,10 @@ An open-source application that needs an offical path! Please open issues to sug
 > npm run script -s
 ```
 _This example above is a fake script ; -s makes the console to print less noise_
-
+---
+## In Progress:
+1. Update [Node.js](https://nodejs.org/en/)
+2. Offline app abilities
 ---
 
 ## Version Log:
