@@ -15,7 +15,7 @@
 
 After forking the repo and cloning it on your machine, type npm install to install the dependencies that the project needs
 
-``` code
+``` powershell
 > npm install
 ```
 
@@ -26,7 +26,7 @@ After editing the code you will have to test your code! For more NPM Scripts, ch
 
 You must run **npm run app** to start _Express_.
 
-``` code
+``` powershell
 > npm run app -s
 ```
 
@@ -41,7 +41,7 @@ Like what you have done? Move onto building, next section -->
 
 This clears the **dist** folder for your edits and code. Type the following:
 
-``` code
+``` powershell
 > npm run prebuild
 ```
 
@@ -49,13 +49,13 @@ _Any errors from linting will have to be resolved, usually_
 
 Now, to build, bundle, and write your code to the **dist** folder. Type the following:
 
-``` code
+``` powershell
 > npm run build
 ```
 
 Finally to build and just to preview your work (optional), type the following command:
 
-``` code 
+``` powershell
 > npm run postbuild
 ```
 

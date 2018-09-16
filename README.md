@@ -6,16 +6,17 @@
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/size-159_MB-brightgreen.svg)
 
-An open-source application that needs an offical path! Please open issues to suggest paths that **Octo Turbo** should take!
+An open-source application that needs an official path! Please open issues to suggest paths that **Octo Turbo** should take!
 
 **Tip**: When you are running a npm script be sure to use: npm **run** _script_name_
 
-```
+``` powershell
 > npm run script -s
 ```
 _This example above is a fake script ; -s makes the console to print less noise_
 ## In Progress:
 1. Offline app abilities
+2. Official path for Octo Turbo
 
 ## Version Log:
 **1.2.4**: Organized files in `/docs` folders. Added `/updates` folder for update summaries
