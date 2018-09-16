@@ -61,6 +61,6 @@ _This example above is a fake script ; -s makes the console to print less noise_
 2. Edit the code and publish the code to your own forked repo & [make pull requests](https://github.com/Roshanjossey/first-contributions/blob/master/README.md)
 3. Add your name and GitHub profile link in [CONTRIBUTE.md]()
 
-_Nobody is excluded unless violating [Code Of Conduct](https://github.com/rocketbear27/octo-turbo/wiki/Code-Of-Conduct)_
+_Nobody is excluded unless violating [Code Of Conduct](https://github.com/rocketbear27/octo-turbo/blob/master/CODE_OF_CONDUCT.md)_
 
 ---
