@@ -17,6 +17,7 @@ _This example above is a fake script ; -s makes the console to print less noise_
 ## In Progress:
 1. Offline app abilities
 2. Official path for Octo Turbo
+3. Commenting in all code
 
 ## Version Log:
 **1.2.5**: Added `.github` folder with issue templates. Added Code of Conduct for this open source project. Updated Node.js LTS and reached 100 commits!
@@ -32,11 +33,11 @@ _This example above is a fake script ; -s makes the console to print less noise_
 ---
 
 ## Change Log:
-9/16/18: Added `.github` folder with issue templates. Added Code of Conduct for this open source project. Version [1.2.5])() Released!
+9/16/18: Added `.github` folder with issue templates. Added Code of Conduct for this open source project. Version [1.2.5])(https://github.com/rocketbear27/octo-turbo/blob/master/docs/updates/1.2.x.md) Released!
 <br><br>
 9/14/18: Added a `/.github` folder with templates. Updated [Node.js]() to **8.12.0** LTS. Reached [100 Commits](https://github.com/rocketbear27/octo-turbo/commits/master) for the open source project [Octo Turbo](). One month aniversary for [Octo Turbo](), this open source project began on August 7, 2018!
 <br><br>
-9/9/18: Added  `/docs` folder with `CONTRIBUTE.md` for a contributors list, `DOCS.md` for a full packed docs, & `GOALS.md` for goals. And `/updates` folder for update summaries. Version **1.2.4** Released, [Check Update Summary For More Details]().
+9/9/18: Added  `/docs` folder with `CONTRIBUTE.md` for a contributors list, `DOCS.md` for a full packed docs, & `GOALS.md` for goals. And `/updates` folder for update summaries. Version **1.2.4** Released, [Check Update Summary For More Details](https://github.com/rocketbear27/octo-turbo/blob/master/docs/updates/1.2.x.md).
 <br><br>
 9/6/18: Added Appveyor CI Badge Status For _Octo Turbo_ ; Added GNU General Public License `LICENCE` ; Version **1.2.2** ; Added `GOALS.md` for goals
 <br><br>
