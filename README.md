@@ -31,7 +31,7 @@ A JavaScript & open-source application!
 ## Change Log:
 **9/19/18**: Fixed `README.md` with multiple badges and errors. `index.js` content.
 <br><br>
-9/16/18: Added `.github` folder with issue templates. Added Code of Conduct for this open source project. Version [1.2.5](https://github.com/rocketbear27/octo-turbo/blob/master/docs/updates/1.2.x.md) Released!
+**9/16/18**: Added `.github` folder with issue templates. Added Code of Conduct for this open source project. Version [1.2.5](https://github.com/rocketbear27/octo-turbo/blob/master/docs/updates/1.2.x.md) Released!
 <br><br>
 **9/14/18**: Added a `/.github` folder with templates. Updated [Node.js]() to **8.12.0** LTS. Reached [100 Commits](https://github.com/rocketbear27/octo-turbo/commits/master) for the open source project [Octo Turbo](). One month aniversary for [Octo Turbo](), this open source project began on August 7, 2018!
 <br><br>
@@ -39,7 +39,7 @@ A JavaScript & open-source application!
 <br><br>
 **9/6/18**: Added Appveyor CI Badge Status For _Octo Turbo_ ; Added GNU General Public License `LICENCE` ; Version **1.2.2** ; Added `GOALS.md` for goals
 <br><br>
-9/4/18: Runned all commands making sure everything is working
+**9/4/18**: Runned all commands making sure everything is working
 <br><br>
 **9/3/18**: Changed `index.html` icon
 <br><br>
@@ -49,7 +49,7 @@ A JavaScript & open-source application!
 <br><br>
 **8/13/18**: Cleared unnecessary files in /dist ; Added a `.gitignore` for the Dist folder
 <br><br>
-8/12/18: New NPM Scripts, `.editorconfig` for editor default settings, `.eslintrc.json` for linting process, `travis.yml` and `appveyor.yml` for build status, and Version 1 Released!
+**8/12/18**: New NPM Scripts, `.editorconfig` for editor default settings, `.eslintrc.json` for linting process, `travis.yml` and `appveyor.yml` for build status, and Version 1 Released!
 <br><br>
 **8/10/18**: Configured Webpack and Babel ; Added `CONTRIBUTE.md`
 <br><br>
