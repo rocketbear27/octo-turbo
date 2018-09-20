@@ -11,10 +11,6 @@
 
 An open-source application!
 
-**Repo Size:** 159 MB
-
-**Application Size:** 118 KB
-
 ## In Progress:
 1. Offline app abilities
 2. Official path for Octo Turbo
