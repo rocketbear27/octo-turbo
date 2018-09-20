@@ -2,6 +2,12 @@
 
 # DOCS For OCTO TURBO
 ---
+**Tip**: When you are running a npm script be sure to use: npm **run** _script_name_
+
+``` powershell
+> npm run script -s
+```
+_This example above is a fake script ; -s makes the console to print less noise_
 
 ## Prerequisites:
 1. NPM (v6.4.0)

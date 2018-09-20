@@ -4,21 +4,18 @@
 ![Appveyor CI Status](https://ci.appveyor.com/api/projects/status/g91ex63y4v0e50lg?svg=true)
 ![](https://img.shields.io/badge/contributors-3-brightgreen.svg)
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
-![](https://img.shields.io/badge/file_size-159_MB-brightgreen.svg)
-![](https://img.shields.io/badge/dist_site_size-0_MB-brightgreen.svg)
 
-An open-source application that needs an official path! Please open issues to suggest paths that **Octo Turbo** should take!
+## About
 
-**Tip**: When you are running a npm script be sure to use: npm **run** _script_name_
+An open-source application!
 
-``` powershell
-> npm run script -s
-```
-_This example above is a fake script ; -s makes the console to print less noise_
+**Repo Size:** 159 MB
+
+**Application Size:** 118 KB
+
 ## In Progress:
 1. Offline app abilities
 2. Official path for Octo Turbo
-3. Commenting in all code
 
 ## Version Log:
 **1.2.5**: Added `.github` folder with issue templates. Added Code of Conduct for this open source project. Updated Node.js LTS and reached 100 commits!
