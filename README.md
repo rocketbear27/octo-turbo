@@ -9,7 +9,7 @@
 
 ## About
 
-An open-source application!
+A JavaScript & open-source application!
 
 ## In Progress:
 1. Offline app abilities
