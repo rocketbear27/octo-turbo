@@ -9,6 +9,8 @@
 
 ## About
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rocketbear27/octo-turbo.svg)](https://greenkeeper.io/)
+
 A JavaScript & open-source application!
 
 ## In Progress:
