@@ -2,14 +2,13 @@
 
 ![Travis CI Status](https://api.travis-ci.org/rocketbear27/octo-turbo.svg?branch=master)
 ![Appveyor CI Status](https://ci.appveyor.com/api/projects/status/g91ex63y4v0e50lg?svg=true)
-![](https://img.shields.io/badge/contributors-3-brightgreen.svg)
+![](https://img.shields.io/badge/contributors-4-brightgreen.svg)
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/repo_size-159_MB-brightgreen.svg)
 ![](https://img.shields.io/badge/app_size-118_KB-brightgreen.svg)
+[![Greenkeeper badge](https://badges.greenkeeper.io/rocketbear27/octo-turbo.svg)](https://greenkeeper.io/)
 
 ## About
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/rocketbear27/octo-turbo.svg)](https://greenkeeper.io/)
 
 A JavaScript & open-source application!
 
@@ -18,6 +17,8 @@ A JavaScript & open-source application!
 2. Official path for Octo Turbo
 
 ## Version Log:
+**1.2.6**: Added [greenkeeper bot](https://greenkeeper.io) for updating dependencies. Version [1.2.6](https://github.com/rocketbear27/octo-turbo/blob/master/docs/updates/1.2.x.md) released! 
+<br><br>
 **1.2.5**: Added `.github` folder with issue templates. Added Code of Conduct for this open source project. Updated Node.js LTS and reached 100 commits!
 <br><br>
 **1.2.4**: Organized files in `/docs` folders. Added `/updates` folder for update summaries
@@ -31,6 +32,8 @@ A JavaScript & open-source application!
 ---
 
 ## Change Log:
+**9/23/18**: Added [greenkeeper bot](https://greenkeeper.io) for updating dependencies. Version [1.2.6](https://github.com/rocketbear27/octo-turbo/blob/master/docs/updates/1.2.x.md) released!
+<br><br>
 **9/19/18**: Fixed `README.md` with multiple badges and errors. `index.js` content.
 <br><br>
 **9/16/18**: Added `.github` folder with issue templates. Added Code of Conduct for this open source project. Version [1.2.5](https://github.com/rocketbear27/octo-turbo/blob/master/docs/updates/1.2.x.md) Released!
