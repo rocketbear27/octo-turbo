@@ -33,6 +33,8 @@ A JavaScript & open-source application!
 ---
 
 ## Change Log:
+**9/24/18**: Fixed build to pass. Updated Dependencies with _greenkeeper bot_.
+<br><br>
 **9/23/18**: Added [greenkeeper bot](https://greenkeeper.io) for updating dependencies. Version [1.2.6](https://github.com/rocketbear27/octo-turbo/blob/master/docs/updates/1.2.x.md) released!
 <br><br>
 **9/19/18**: Fixed `README.md` with multiple badges and errors. `index.js` content.
