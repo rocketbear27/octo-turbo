@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/npm_scripts-failing-red.svg)
 ![](https://img.shields.io/badge/repo_size-74.3_MB-brightgreen.svg)
 ![](https://img.shields.io/badge/app_size-118_KB-brightgreen.svg)
+![](https://img.shields.io/badge/mode-maintenance-yellow.svg)
 [![Greenkeeper badge](https://badges.greenkeeper.io/rocketbear27/octo-turbo.svg)](https://greenkeeper.io/)
 
 ## About
