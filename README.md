@@ -13,9 +13,9 @@
 
 A JavaScript & open-source application!
 
-## In Progress:
-1. Offline app abilities
-2. Official path for Octo Turbo
+## Resources:
+1. [Docs Folder with documentation for Octo Turbo](https://github.com/rocketbear27/octo-turbo/tree/master/docs)
+2. [Octo Turbo GitHub Page](https://github.com/rocketbear27/octo-turbo)
 
 ## Version Log:
 **1.2.6**: Added [greenkeeper bot](https://greenkeeper.io) for updating dependencies. Version [1.2.6](https://github.com/rocketbear27/octo-turbo/blob/master/docs/updates/1.2.x.md) released! 
@@ -73,3 +73,7 @@ A JavaScript & open-source application!
 _Nobody is excluded unless violating [Code Of Conduct](https://github.com/rocketbear27/octo-turbo/blob/master/CODE_OF_CONDUCT.md)_
 
 ---
+
+## In Progress:
+1. Offline app abilities
+2. Official path for Octo Turbo
