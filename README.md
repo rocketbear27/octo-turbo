@@ -4,7 +4,7 @@
 ![Appveyor CI Status](https://ci.appveyor.com/api/projects/status/g91ex63y4v0e50lg?svg=true)
 ![](https://img.shields.io/badge/contributors-4-brightgreen.svg)
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
-![](https://img.shields.io/badge/repo_size-159_MB-brightgreen.svg)
+![](https://img.shields.io/badge/repo_size-74.3_MB-brightgreen.svg)
 ![](https://img.shields.io/badge/app_size-118_KB-brightgreen.svg)
 [![Greenkeeper badge](https://badges.greenkeeper.io/rocketbear27/octo-turbo.svg)](https://greenkeeper.io/)
 
