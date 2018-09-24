@@ -9,11 +9,11 @@ describe('Our first test', () => {
 });
 
 describe('index.html', () => {
-    it('should say Served from Express', (done) => {
+    it('should say Testing', (done) => {
         const index = fs.readFileSync('./src/index.html', "utf-8");
         jsdom.env(index, function(err, window) {
             const h1 = window.document.getElementsByTagName('h1')[0];
-            expect(h1.innerHTML).to.equal("Served from Express");
+            expect(h1.innerHTML).to.equal("Testing");
             done();
             window.close();
         });
