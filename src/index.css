@@ -1,10 +1,42 @@
-body {
-    background-color: white;
+::-webkit-scrollbar {
+    width: 15px;
+    transition: all 0.3s
 }
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3)
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5)
+}
+
+::-webkit-scrollbar-thumb:hover {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.8);
+    background-color: rgb(245, 237, 240)
+}
+
+body {
+    background-color: whitesmoke;
+}
+
 #mainLogo {
     width: 150px;
-    float:left;
+    float: left;
 }
+
+#navBar {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: #3F51B5;
+    margin: 0px;
+    padding: 12px;
+}
+
 #navBar a {
-    float:right;
+    text-align: center;
+    color: #FFFFFF;
 }

@@ -33,6 +33,8 @@ A JavaScript built, learning site for everyone that is an open-source applicatio
 ---
 
 ## Change Log:
+**9/25/18**: Working on UI
+<br><br>
 **9/24/18**: Fixed build to pass. Updated Dependencies with _greenkeeper bot_. **CHOSE OFFICIAL PATH FOR OCTO TURBO**!
 <br><br>
 **9/23/18**: Added [greenkeeper bot](https://greenkeeper.io) for updating dependencies. Version [1.2.6](https://github.com/rocketbear27/octo-turbo/blob/master/docs/updates/1.2.x.md) released!
