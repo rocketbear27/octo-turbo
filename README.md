@@ -11,7 +11,7 @@
 
 ## About
 
-A JavaScript & open-source application!
+A JavaScript built, learning site for everyone that is an open-source application!
 
 ## Resources:
 1. [Docs Folder with documentation for Octo Turbo](https://github.com/rocketbear27/octo-turbo/tree/master/docs)
@@ -33,7 +33,7 @@ A JavaScript & open-source application!
 ---
 
 ## Change Log:
-**9/24/18**: Fixed build to pass. Updated Dependencies with _greenkeeper bot_.
+**9/24/18**: Fixed build to pass. Updated Dependencies with _greenkeeper bot_. **CHOSE OFFICIAL PATH FOR OCTO TURBO**!
 <br><br>
 **9/23/18**: Added [greenkeeper bot](https://greenkeeper.io) for updating dependencies. Version [1.2.6](https://github.com/rocketbear27/octo-turbo/blob/master/docs/updates/1.2.x.md) released!
 <br><br>
