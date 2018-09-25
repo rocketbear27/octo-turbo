@@ -1,6 +1,10 @@
 body {
-    font-family: sans-serif;
+    background-color: white;
 }
-table th {
-    padding: 5px;
+#mainLogo {
+    width: 150px;
+    float:left;
+}
+#navBar a {
+    float:right;
 }
