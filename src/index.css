@@ -20,6 +20,7 @@
 
 body {
     background-color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
 }
 
 #mainLogo {
@@ -34,9 +35,17 @@ body {
     background-color: #3F51B5;
     margin: 0px;
     padding: 12px;
+    height:50px;
 }
 
 #navBar a {
     text-align: center;
     color: #FFFFFF;
+    float: right;
+    padding:15px;
+    text-decoration: none;
+}
+#navBar a:visited {
+    color: #FFFFFF;
+    text-decoration: none;
 }
