@@ -11,7 +11,7 @@
 
 ## About
 
-A JavaScript built, learning site for everyone that is an open-source application!
+A simple, fast, and safe compiler for web developers! ALso an open source compiler!
 
 ## Resources:
 1. [Docs Folder with documentation for Octo Turbo](https://github.com/rocketbear27/octo-turbo/tree/master/docs)
