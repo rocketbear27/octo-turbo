@@ -2,7 +2,7 @@
 
 ![Travis CI Status](https://api.travis-ci.org/rocketbear27/octo-turbo.svg?branch=master)
 ![Appveyor CI Status](https://ci.appveyor.com/api/projects/status/g91ex63y4v0e50lg?svg=true)
-![](https://img.shields.io/badge/contributors-4-brightgreen.svg)
+![](https://img.shields.io/badge/contributors-5-brightgreen.svg)
 ![](https://img.shields.io/badge/npm_scripts-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/repo_size-685_KB-brightgreen.svg)
 ![](https://img.shields.io/badge/app_size-118_KB-brightgreen.svg)
@@ -11,7 +11,7 @@
 
 ## About
 
-A simple, fast, and safe compiler for web developers! ALso an open source compiler!
+A simple, fast, and safe compiler for web developers! Also an open source compiler!
 
 ## Resources:
 1. [Docs Folder with documentation for Octo Turbo](https://github.com/rocketbear27/octo-turbo/tree/master/docs)
