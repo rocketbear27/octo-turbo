@@ -19,7 +19,7 @@ _This example above is a fake script ; -s makes the console to print less noise_
 
 ## Start:
 
-After forking the repo and cloning it on your machine, type npm install to install the dependencies that the project needs
+After forking the repo and cloning it on your machine, open a terminal (or Command Prompt if on Windows) to the extracted folder and type npm install to install the dependencies that the project needs
 
 ``` powershell
 > npm install
