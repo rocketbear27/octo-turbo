@@ -40,7 +40,7 @@
     "compression": "1.7.3",
     "cross-env": "5.2.0",
     "css-loader": "1.0.1",
-    "eslint": "5.6.0",
+    "eslint": "5.14.0",
     "eslint-plugin-import": "2.14.0",
     "eslint-watch": "4.0.2",
     "express": "4.16.3",
